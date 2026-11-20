@@ -1,4 +1,4 @@
-# news-image-20261120 — "Friday 20 November 2026" (v3, layout D)
+# news-image-20261120 — "Friday 20 November 2026" (v4, layout D)
 
 [![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 [![rank](https://make.fun/badge/news-image-20261120/kavivenn-blip/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
@@ -8,13 +8,16 @@ One image that sums up Friday 20 November 2026's world news: **36 stories**
 on a single 1024&times;1024 page, built for the
 [make.fun bounty](https://make.fun/bounty/news-image-20261120).
 
-This is the v3 revision, built from a layout drawn by the author himself
+This is the v4 revision, built from a layout drawn by the author himself
 (layout D: three leads stacked on the left, the world map top-right, ten
 feature cards in two rows, 23 briefs below). The typography is Gelasio 700
 for headlines (56px masthead), Gelasio Italic for the red subtitle, and
-Source Sans 3 for body text, labels and lists; the illustrations are flat
-vector drawings in a limited palette of deep navy, cream, tan, brick red
-and gold.
+Source Sans 3 for body text, labels and lists; the illustrations are
+gradient vector scenes in a limited palette of deep navy, cream, tan, brick
+red and gold, each carrying a short data label. v4 redraws all 13 scenes
+with richer gradients and data labels, and replaces the Yenne boat story
+(Wednesday 18 Nov) with a verified Friday story: a Russian Kh-101 cruise
+missile landing in a Polish field.
 
 ## What is on the page
 
@@ -23,9 +26,9 @@ and gold.
   Asian AI sell-off).
 - A numbers strip (300,000+ evacuated &middot; ~30 missiles at Kyiv
   &middot; &minus;7% Asia shares &middot; 2.3% Japan CPI &middot; 118
-  Phillips &middot; 8 years for BepiColombo) and a region bar (Europe 7
+  Phillips &middot; 8 years for BepiColombo) and a region bar (Europe 8
   &middot; Americas 8 &middot; Asia-Pacific 10 &middot; Mideast 3
-  &middot; Africa 3 &middot; Oceania 4 &middot; World/Space 1).
+  &middot; Africa 2 &middot; Oceania 4 &middot; World/Space 1).
 - **3 lead stories**: Cyclone Akvan makes landfall in Odisha; Russian
   ballistic missiles hit Kyiv (~30 missiles, 3 killed, 15 hurt); COP31
   reaches its final day deadlocked.
@@ -33,9 +36,9 @@ and gold.
   KOSPI &minus;5.7%, TAIEX &minus;6.8%), BepiColombo reaching Mercury,
   the first EU&ndash;UK reset summit, Japan inflation at 2.3%, China
   holding lending rates for an 18th month, Phillips' 118 vs India,
-  Bukele's third-term bid, a migrant boat capsizing off Yenne, Italy's
-  CGIL general strike, and a pancreatic cancer pill shrinking tumours
-  60.7%.
+  Bukele's third-term bid, a Russian Kh-101 cruise missile landing in a
+  Polish field, Italy's CGIL general strike, and a pancreatic cancer pill
+  shrinking tumours 60.7%.
 - **23 briefs** (14&ndash;36), a **WHERE IT HAPPENED** dark-navy world map
   with numbered pins (Pins 1&ndash;13), a **DATE CHECK** strip, and a
   sources footer.
@@ -60,18 +63,22 @@ before the build:
 
 ## Honesty about dates
 
-33 stories on the page happened, or were first reported, on
+34 stories on the page happened, or were first reported, on
 **Friday 20 November 2026** in at least one time zone. Seven stories
 that were first reported on **Thursday 19 November** (the
 Trump&ndash;Xi&ndash;Putin Shenzhen summit, Anthropic's $83 IPO pricing
 and Nasdaq debut, the ICJ Myanmar verdict, the GTA VI midnight launch,
 the $190.4m Van Gogh sale, Voyager 1 crossing one light-day, and the
 Senate 48&ndash;51 Iran war-powers vote) are listed in the DATE CHECK
-strip as "NOT shown as Friday's news". Three more stories are shown
+strip as "NOT shown as Friday's news". Two more stories are shown
 on the page but were first reported earlier, and are flagged in the
-DATE CHECK: Bukele's third-term filing (Thu 19 Nov), the Yenne boat
-sinking (Wed 18 Nov), and Fiona the hippo's death (Thu 19 Nov).
-Nothing here invents a result for an event that had not happened.
+DATE CHECK: Bukele's third-term filing (Thu 19 Nov) and Fiona the
+hippo's death (Thu 19 Nov). The Kh-101 missile landing in Poland was
+first reported on Friday 20 Nov (AP, Reuters): the missile fell near
+Nowy Lipowiec in the Lublin region during the overnight Russian strike
+on Ukraine; Prime Minister Donald Tusk called it a deliberate
+provocation. Nothing here invents a result for an event that had not
+happened.
 
 Every story was verified against two or more independent sources before
 it was drawn.
