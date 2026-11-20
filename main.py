@@ -1,4 +1,4 @@
-"""news-image-20261120 entry runner (v4, Kavi's layout D).
+"""news-image-20261120 entry runner (v5, Arah 1: Strict Friday + Wide Leads).
 
 Copies the pre-rendered entry image into the output directory.
 
@@ -6,8 +6,13 @@ The image is a deterministic 1024x1024 PNG rendered from render.html, a
 static self-contained page: locally embedded Gelasio + Source Sans 3 fonts,
 inline SVG gradient scenes with data labels, no network, no JavaScript. It
 is screenshotted once at build time with a headless browser and stored in
-this repository as entry.png; two independent screenshot runs produced
+this repository as entry.png; three independent screenshot runs produced
 byte-identical files.
+
+v5 vs v4: strict Friday (Bukele + Fiona out, GTA VI $2.36bn sales +
+Suneung 111 in, both Friday-reported figures); 3 wide side-by-side leads
+with big red block labels; 11 features in 2 rows; map + 22 briefs at the
+bottom; DATE CHECK lists exclusions only. 36 stories, all Friday 20 Nov.
 
 This runner uses only the Python standard library. It reads the
 MAKEFUN_OUTPUT_DIR environment variable when set and falls back to
