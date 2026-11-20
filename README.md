@@ -1,53 +1,89 @@
-# news-image-20261120 — "Friday 20 November 2026"
+# news-image-20261120 — "Friday 20 November 2026" (v3, layout D)
+
+[![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/kavivenn-blip/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/kavivenn-blip/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 One image that sums up Friday 20 November 2026's world news: **36 stories**
 on a single 1024&times;1024 page, built for the
 [make.fun bounty](https://make.fun/bounty/news-image-20261120).
 
+This is the v3 revision, built from a layout drawn by the author himself
+(layout D: three leads stacked on the left, the world map top-right, ten
+feature cards in two rows, 23 briefs below). The typography is Gelasio 700
+for headlines (56px masthead), Gelasio Italic for the red subtitle, and
+Source Sans 3 for body text, labels and lists; the illustrations are flat
+vector drawings in a limited palette of deep navy, cream, tan, brick red
+and gold.
+
 ## What is on the page
 
-- A giant serif masthead — **Friday 20 November 2026** — with the three
-  biggest Friday stories as its subtitle.
-- A region bar (Europe 6 &middot; The Americas 12 &middot; Asia-Pacific 10
-  &middot; Mideast 4 &middot; Africa 2 &middot; Oceania 1 &middot; World 1)
-  and a numbers strip (300,000+ evacuated as Cyclone Akvan hit &middot;
-  9&ndash;6 ICJ verdict &middot; $1.84bn GTA VI sales estimate &middot;
-  $81.3bn Anthropic valuation &middot; &minus;1,101 Dow points &middot;
-  36 stories).
-- **3 lead stories**: Cyclone Akvan makes landfall in Odisha; Trump puts
-  the Iran call off to 2027; the ICJ finds Myanmar guilty of genocide
-  (9&ndash;6, a first in 80 years).
-- **10 feature stories**: the Shenzhen trilateral (Xi&ndash;Trump&ndash;Putin),
-  Berlin ready for Russia talks, COP31's final day, the PIF Tower strike in
-  Riyadh, the third Kerch Bridge attack, Voyager 1 crossing one light-day,
-  GTA VI sales passing $1.84bn, Anthropic's $83 IPO debut, Han's 15-year
-  term quashed, and Thursday's market fall.
-- **23 briefs** (14&ndash;36), a **WHERE IT HAPPENED** world map with numbered
-  pins, a **THE DAY IN UTC** timeline, a **DATE CHECK** strip, and a
-  **LATER TODAY** strip.
-- A sources footer naming the outlets each story was verified against.
+- A giant serif masthead — **Friday 20 November 2026** — with the four
+  biggest Friday stories as its subtitle (Cyclone Akvan, Kyiv, COP31, the
+  Asian AI sell-off).
+- A numbers strip (300,000+ evacuated &middot; ~30 missiles at Kyiv
+  &middot; &minus;7% Asia shares &middot; 2.3% Japan CPI &middot; 118
+  Phillips &middot; 8 years for BepiColombo) and a region bar (Europe 7
+  &middot; Americas 8 &middot; Asia-Pacific 10 &middot; Mideast 3
+  &middot; Africa 3 &middot; Oceania 4 &middot; World/Space 1).
+- **3 lead stories**: Cyclone Akvan makes landfall in Odisha; Russian
+  ballistic missiles hit Kyiv (~30 missiles, 3 killed, 15 hurt); COP31
+  reaches its final day deadlocked.
+- **10 feature stories**: the Asian AI sell-off (Nikkei &minus;4.9%,
+  KOSPI &minus;5.7%, TAIEX &minus;6.8%), BepiColombo reaching Mercury,
+  the first EU&ndash;UK reset summit, Japan inflation at 2.3%, China
+  holding lending rates for an 18th month, Phillips' 118 vs India,
+  Bukele's third-term bid, a migrant boat capsizing off Yenne, Italy's
+  CGIL general strike, and a pancreatic cancer pill shrinking tumours
+  60.7%.
+- **23 briefs** (14&ndash;36), a **WHERE IT HAPPENED** dark-navy world map
+  with numbered pins (Pins 1&ndash;13), a **DATE CHECK** strip, and a
+  sources footer.
+
+## Corrections from the sketch
+
+Two figures in the author's sketch were corrected against live sources
+before the build:
+
+- **AI sell-off (feature 04):** the sketch read "Nikkei &minus;4.5%,
+  KOSPI &minus;4.7%, SoftBank &minus;16%". The verified Friday figures
+  (Reuters/TradingView) are Nikkei **&minus;4.90%** intraday to 56,517,
+  KOSPI **&minus;5.7%**, TAIEX **&minus;6.8%**, SoftBank **&minus;15%**.
+  The card now reads "Nikkei &minus;4.9%, KOSPI &minus;5.7%, TAIEX
+  &minus;6.8%; SoftBank &minus;15%".
+- **COP31 (lead 03):** the sketch used "$120BN FINANCE GAP" as the
+  key fact. The $120bn adaptation-finance figure was **removed** from
+  the COP31 closing draft, so presenting it as the finance gap would
+  be misleading. The key fact is now "FINAL DAY &bull; DEADLOCK" and the
+  body says adaptation finance "stays unresolved" with no nominal
+  figure. "$120bn" appears nowhere on the page.
 
 ## Honesty about dates
 
-Several of the biggest stories of the day actually happened on **Thursday
-19 November** (the ICJ verdict, the Shenzhen trilateral, Voyager 1, the PIF
-Tower strike, the Anthropic debut, the Han retrial, the GTA VI launch).
-They are shown with a Friday angle and flagged in the DATE CHECK strip
-instead of being mis-dated as Friday. Events that had not happened yet when
-the image was made (Trump's Friday press conference, F1 qualifying, the
-COP31 final text) are listed under LATER TODAY with "results not yet known"
-— nothing here invents a result for an event that had not happened.
+33 stories on the page happened, or were first reported, on
+**Friday 20 November 2026** in at least one time zone. Seven stories
+that were first reported on **Thursday 19 November** (the
+Trump&ndash;Xi&ndash;Putin Shenzhen summit, Anthropic's $83 IPO pricing
+and Nasdaq debut, the ICJ Myanmar verdict, the GTA VI midnight launch,
+the $190.4m Van Gogh sale, Voyager 1 crossing one light-day, and the
+Senate 48&ndash;51 Iran war-powers vote) are listed in the DATE CHECK
+strip as "NOT shown as Friday's news". Three more stories are shown
+on the page but were first reported earlier, and are flagged in the
+DATE CHECK: Bukele's third-term filing (Thu 19 Nov), the Yenne boat
+sinking (Wed 18 Nov), and Fiona the hippo's death (Thu 19 Nov).
+Nothing here invents a result for an event that had not happened.
 
-Every story was verified against two or more independent sources before it
-was drawn; figures marked "(est.)" are estimates.
+Every story was verified against two or more independent sources before
+it was drawn.
 
 ## How the entry is produced
 
-`render.html` is a static, self-contained page (system fonts only, no
-network, no JavaScript) that draws the whole image as inline SVG
-illustrations plus text. At build time it is screenshotted once with a
-headless browser into `entry.png` (1024&times;1024, under 1 MiB).
-Two independent screenshot runs produced byte-identical files.
+`render.html` is a static, self-contained page (locally embedded Gelasio
+and Source Sans 3 fonts via `@font-face`, inline SVG illustrations, no
+network, no JavaScript) that draws the whole image. At build time it is
+screenshotted once with a headless browser into `entry.png`
+(1024&times;1024, under 1 MiB). Two independent screenshot runs produced
+byte-identical files.
 
 `main.py` (Python 3.13, standard library only) copies `entry.png` into the
 harness output directory (`MAKEFUN_OUTPUT_DIR`, default `/output`).
@@ -58,5 +94,6 @@ harness output directory (`MAKEFUN_OUTPUT_DIR`, default `/output`).
 | --- | --- |
 | `entry.png` | The entry image, 1024&times;1024 |
 | `render.html` | The page the image is screenshotted from |
+| `fonts/` | Gelasio + Source Sans 3 woff2 files (local, deterministic) |
 | `main.py` | Runner: copies `entry.png` to the output directory |
 | `LICENSE` | MIT |

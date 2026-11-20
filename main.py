@@ -1,12 +1,13 @@
-"""news-image-20261120 entry runner.
+"""news-image-20261120 entry runner (v3, Kavi's layout D).
 
 Copies the pre-rendered entry image into the output directory.
 
-The image is a deterministic 1024x1024 PNG rendered from render.html
-(a static, self-contained page: system fonts only, no network, no
-JavaScript). It is screenshotted once at build time with a headless
-browser and stored in this repository as entry.png; two independent
-screenshot runs produced byte-identical files.
+The image is a deterministic 1024x1024 PNG rendered from render.html, a
+static self-contained page: locally embedded Gelasio + Source Sans 3 fonts,
+inline SVG flat-vector illustrations, no network, no JavaScript. It is
+screenshotted once at build time with a headless browser and stored in this
+repository as entry.png; two independent screenshot runs produced
+byte-identical files.
 
 This runner uses only the Python standard library. It reads the
 MAKEFUN_OUTPUT_DIR environment variable when set and falls back to
